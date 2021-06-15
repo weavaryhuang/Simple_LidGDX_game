@@ -1,0 +1,8 @@
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/CreditScreen.java
+ com.mygdx.game.CreditScreen
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+com/mygdx/game/MainMenu.java
+ com.mygdx.game.MainMenu
